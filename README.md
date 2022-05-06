@@ -1,2 +1,2 @@
-# Ejercicio_descuento_masdmil
+# Suma entre números
 Created with CodeSandbox
